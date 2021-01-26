@@ -3,7 +3,6 @@
 
 ## Table of contents
 * [General info](#general-info)
-* [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Features](#features)
@@ -20,6 +19,9 @@ It's simple React app. Made to show basics of React.js
 ## Setup
 Open directory of app with cmd and run 'npm install' then 'npm start'
 
+##
+Check location
+Show one of two views depends on your location
 
 ## Status
 Project is finished
