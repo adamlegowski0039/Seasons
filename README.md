@@ -19,7 +19,7 @@ It's simple React app. Made to show basics of React.js
 ## Setup
 Open directory of app with cmd and run 'npm install' then 'npm start'
 
-##
+## Features
 Check location
 Show one of two views depends on your location
 
